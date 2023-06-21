@@ -6,7 +6,7 @@
 ## Description
 I've created this app with the help of pyhton while learning with manupulation of data to store or retrieve from a text file. 
 
-- I Implemeneted its backend with the help of **Python** and **Streamlit** module helped me to build a frontend with ease.
+- Implemeneted it's backend with the help of **Python** and **Streamlit** module helped me to build a frontend with ease.
 
 - After building the project, I built a docker image with the help of **Dockerfile**.
 
