@@ -33,4 +33,4 @@ Run the Image
 ```
 
 ## Screenshot
-![alt text](https://github.com/AkramExp/python-todo-app/blob/main/Screenshot.png?raw=true)
+![Screenshot](https://github.com/AkramExp/python-todo-app/blob/main/Screenshot.png?raw=true)
