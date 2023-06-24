@@ -14,9 +14,12 @@ I did not use any database to store the data rather just stored it into a text f
 ## Run Locally
 
 ### Run with streamlit
-
+Install dependencies
 ```bash
-  pip3 install requirements.txt
+  pip install --no-cache-dir -r requirements.txt
+```
+Run streamlit command
+```bash
   streamlit run frontend.py
 ```
     
